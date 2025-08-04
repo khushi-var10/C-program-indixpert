@@ -18,5 +18,6 @@ int main()
     else {
         printf("This number is equal to 5. \n");
     }
+    
     return 0;
 }
