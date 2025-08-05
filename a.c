@@ -15,9 +15,11 @@ int main()
     {
         printf("This is greater than number. \n");
     }
-    else {
+    else 
+    {
         printf("This number is equal to 5. \n");
     }
-    
+
     return 0;
+    
 }
